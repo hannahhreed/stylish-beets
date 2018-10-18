@@ -1,0 +1,33 @@
+html {
+  background-color: #c9b5ab;
+  font-family: Georgia;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+}
+
+nav ol {
+  color: #8f2440;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.125rem;
+  list-style-type: none;
+}
+
+nav ol:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+}
+
+main {
+  color: #222;
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+}
